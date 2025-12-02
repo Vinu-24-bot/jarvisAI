@@ -1,8 +1,7 @@
 Jarvis AI – Voice‑Controlled Browser Assistant
 Jarvis AI is a voice‑controlled AI assistant that runs directly in your browser and helps you control the web, generate code files, search information, and perform dozens of everyday tasks hands‑free.​
 
-Live Demo:
-https://jarvis-ai-git-main-vinay-kumars-projects-c769063f.vercel.app/
+Live Demo  (https://jarvis-mw8nu1h6r-vinay-kumars-projects-c769063f.vercel.app/)
 
 Key Features
 Voice‑first interface – Trigger Jarvis with a microphone button and control everything by speaking natural commands.​
@@ -77,4 +76,4 @@ Deployment
 The live version of Jarvis AI is hosted on Vercel as a static Vite build:
 
 Production URL:
-https://jarvis-ai-git-main-vinay-kumars-projects-c769063f.vercel.app/
+(https://jarvis-mw8nu1h6r-vinay-kumars-projects-c769063f.vercel.app/)
