@@ -1,0 +1,244 @@
+================================================================================
+               JARVIS AI ASSISTANT - SETUP & RUN INSTRUCTIONS
+================================================================================
+
+QUICK SUMMARY:
+This is a voice-controlled AI assistant that works in your browser.
+Follow these simple steps to run it on your PC locally.
+
+================================================================================
+                        STEP 1: INSTALL REQUIRED SOFTWARE
+================================================================================
+
+You need to install 2 things on your PC:
+
+A) INSTALL NODE.JS
+   1. Go to https://nodejs.org/
+   2. Download "LTS" version (Left button - bigger number)
+   3. Run the installer
+   4. Click "Next" several times
+   5. Click "Install"
+   6. Wait for installation to complete
+   7. Click "Finish"
+
+B) INSTALL GIT (Optional but recommended)
+   1. Go to https://git-scm.com/
+   2. Click "Download for Windows"
+   3. Run the installer
+   4. Click "Next" multiple times
+   5. Click "Install"
+   6. Click "Finish"
+
+================================================================================
+                        STEP 2: DOWNLOAD THE PROJECT
+================================================================================
+
+METHOD A: Using Git (If you installed Git)
+   1. Open Command Prompt (Press Windows + R, type "cmd", press Enter)
+   2. Copy and paste this line:
+      git clone https://github.com/replit/jarvis-ai-assistant.git
+
+   3. Press Enter and wait for download to complete
+   4. Type this and press Enter:
+      cd jarvis-ai-assistant
+
+METHOD B: Download as ZIP (If you didn't install Git)
+   1. Go to https://github.com/replit/jarvis-ai-assistant
+   2. Click the green "Code" button
+   3. Click "Download ZIP"
+   4. Extract the ZIP file to a folder (Right-click → Extract All)
+   5. Open Command Prompt and go to that folder
+
+================================================================================
+                        STEP 3: INSTALL DEPENDENCIES
+================================================================================
+
+In Command Prompt (already in the project folder):
+   1. Type this command:
+      npm install
+
+   2. Press Enter and WAIT (this takes 2-5 minutes)
+   3. You'll see lots of text - this is normal!
+   4. When it finishes, you should see no errors
+
+================================================================================
+                        STEP 4: START THE APPLICATION
+================================================================================
+
+Still in Command Prompt:
+   1. Type this:
+      npm run dev:client
+
+   2. Press Enter
+   3. Wait for it to compile (about 30 seconds)
+   4. You'll see a URL like: http://localhost:5000/
+
+================================================================================
+                        STEP 5: OPEN IN YOUR BROWSER
+================================================================================
+
+   1. Open your browser (Chrome, Edge, Firefox, etc.)
+   2. In the address bar, type:
+      localhost:5000
+
+   3. Press Enter
+   4. The JARVIS interface will load!
+
+================================================================================
+                        STEP 6: GIVE IT PERMISSION TO USE MICROPHONE
+================================================================================
+
+   1. Look at the browser address bar
+   2. You'll see a microphone icon
+   3. Click on it
+   4. Select "Allow" to give permission
+   5. You're now ready to use voice commands!
+
+================================================================================
+                        STEP 7: START USING JARVIS
+================================================================================
+
+   1. Click the blue microphone button on the screen
+   2. Speak your command clearly
+   3. Examples:
+      - "Create Python file with Kadane"
+      - "Play Bohemian Rhapsody"
+      - "Search for machine learning"
+      - "Open YouTube"
+      - "What time is it"
+
+   4. JARVIS will respond with voice and text!
+
+================================================================================
+                        TROUBLESHOOTING
+================================================================================
+
+PROBLEM: "npm: command not found"
+SOLUTION: 
+   - Node.js wasn't installed properly
+   - Restart your computer
+   - Reinstall Node.js
+   - Make sure to restart Command Prompt after installing
+
+PROBLEM: "Cannot find module"
+SOLUTION:
+   - Run "npm install" again
+   - Make sure you're in the correct folder
+   - Type "dir" in Command Prompt to see files
+
+PROBLEM: "Port 5000 already in use"
+SOLUTION:
+   - Find and close any other application using port 5000
+   - Or change the port in package.json to 5001
+
+PROBLEM: Microphone not working
+SOLUTION:
+   - Make sure browser has microphone permission
+   - Check Windows microphone settings
+   - Try a different browser
+   - Restart the browser
+
+PROBLEM: Commands not recognized
+SOLUTION:
+   - Speak clearly and slowly
+   - Use the commands from COMMANDS.txt file
+   - Check browser console (F12) for errors
+
+================================================================================
+                        COMMON COMMANDS TO TRY
+================================================================================
+
+Voice Commands (Click mic button and speak):
+
+1. "Create Python file with Kadane"
+2. "Play [any song]"
+3. "Search for [any topic]"
+4. "Tell me about [person or topic]"
+5. "Open YouTube"
+6. "What time is it"
+7. "What's the weather"
+8. "Open Gmail"
+9. "Tell me the news"
+10. "Create file saying hello world"
+
+See COMMANDS.txt for complete list of 350+ commands!
+
+================================================================================
+                        KEYBOARD SHORTCUTS
+================================================================================
+
+While using JARVIS:
+
+- Ctrl + C : Stop the server (in Command Prompt)
+- F12 : Open Developer Console (to see errors)
+- Ctrl + L : Clear address bar
+- Alt + F4 : Close browser window
+
+================================================================================
+                        TIPS & TRICKS
+================================================================================
+
+✓ Speak naturally - "Play my favorite song" works!
+✓ Commands are case-insensitive
+✓ You can say multiple words - it understands
+✓ Files download to Downloads folder
+✓ Check COMMANDS.txt for full command list
+✓ Use browser's back button if you go to new page
+✓ Keep microphone close when speaking
+✓ Press blue button to START listening
+✓ JARVIS speaks back with responses
+
+================================================================================
+                        KEEPING IT RUNNING
+================================================================================
+
+To keep using JARVIS:
+   1. Keep Command Prompt window open
+   2. Keep the browser tab open
+   3. If you close Command Prompt, app stops
+   4. To restart: Open Command Prompt again and run "npm run dev:client"
+
+To stop JARVIS:
+   1. Press Ctrl + C in Command Prompt
+   2. Type "Y" if asked and press Enter
+
+================================================================================
+                        NEXT STEPS (ADVANCED)
+================================================================================
+
+If you want to modify JARVIS:
+
+1. Edit commands: Open "client/src/hooks/use-jarvis.ts"
+2. Add new features: Edit React components in "client/src/pages/home.tsx"
+3. Change design: Edit CSS in "client/src/index.css"
+4. Restart server to see changes
+
+Restart server by pressing Ctrl+C and running "npm run dev:client" again
+
+================================================================================
+                        GETTING HELP
+================================================================================
+
+If something goes wrong:
+
+1. Check the TROUBLESHOOTING section above
+2. Check Command Prompt for error messages
+3. Try restarting everything
+4. Make sure all software is installed correctly
+5. Delete "node_modules" folder and run "npm install" again
+
+================================================================================
+                        SUMMARY
+================================================================================
+
+1. Install Node.js ✓
+2. Download project ✓
+3. Run "npm install" ✓
+4. Run "npm run dev:client" ✓
+5. Open localhost:5000 ✓
+6. Allow microphone ✓
+7. Click blue button and speak! ✓
+
+Enjoy your AI assistant!
+
+================================================================================

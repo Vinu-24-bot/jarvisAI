@@ -1,0 +1,617 @@
+================================================================================
+                    JARVIS AI ASSISTANT - COMPLETE COMMAND LIST
+================================================================================
+
+This document contains all 350+ commands that JARVIS AI Assistant recognizes.
+Simply speak any of these commands into your microphone to activate them.
+
+================================================================================
+                            SYSTEM COMMANDS
+================================================================================
+
+SHUTDOWN & POWER
+- "Shutdown my laptop"
+- "Shut down my PC"
+- "Power off"
+- "Close PC"
+- "Turn off"
+- "Power down"
+- "Goodbye"
+
+RESTART
+- "Restart"
+- "Reboot"
+- "Restart PC"
+
+SLEEP & LOCK
+- "Sleep mode"
+- "Lock"
+- "Lock screen"
+- "Lock computer"
+- "Hibernate"
+- "Screen off"
+- "Turn off screen"
+
+================================================================================
+                        MEDIA & AUDIO CONTROLS
+================================================================================
+
+VOLUME CONTROL
+- "Volume up"
+- "Increase volume"
+- "Louder"
+- "Raise volume"
+- "Volume down"
+- "Decrease volume"
+- "Softer"
+- "Lower volume"
+- "Mute"
+
+PLAYBACK CONTROLS
+- "Play"
+- "Pause"
+- "Next"
+- "Previous"
+- "Stop music"
+
+MUSIC PLAYBACK (YouTube Music)
+- "Play [song name]"
+- "Listen to [song]"
+- "Stream [artist]"
+- "Put on [album]"
+- "Turn on [music]"
+- "Start playing [track]"
+- "Crank [song]"
+
+================================================================================
+                        WINDOW & APP CONTROLS
+================================================================================
+
+WINDOW MANAGEMENT
+- "Minimize"
+- "Minimize window"
+- "Maximize"
+- "Maximize window"
+- "Full screen"
+- "Close"
+- "Close window"
+- "Close application"
+- "Exit"
+
+APPLICATION CONTROL
+- "Task manager"
+- "Open task manager"
+- "System monitor"
+- "Settings"
+- "Open settings"
+- "Control panel"
+
+================================================================================
+                        KEYBOARD SHORTCUTS
+================================================================================
+
+CLIPBOARD OPERATIONS
+- "Copy"
+- "Copy that"
+- "Paste"
+- "Paste that"
+- "Cut"
+- "Cut that"
+- "Undo"
+- "Undo that"
+- "Redo"
+- "Redo that"
+
+TEXT OPERATIONS
+- "Select all"
+- "Select everything"
+- "Find"
+- "Search"
+- "Find text"
+- "Save"
+- "Save file"
+- "Print"
+- "Print document"
+- "New"
+- "New file"
+- "New tab"
+- "New window"
+- "Open"
+- "Open file"
+- "Open folder"
+
+================================================================================
+                        SCREENSHOT & CAPTURE
+================================================================================
+
+SCREENSHOTS
+- "Screenshot"
+- "Take screenshot"
+- "Screen capture"
+- "Capture screen"
+- "Print screen"
+
+================================================================================
+                        BROWSER CONTROLS
+================================================================================
+
+NAVIGATION
+- "Refresh"
+- "Reload page"
+- "Refresh page"
+- "Back"
+- "Go back"
+- "Forward"
+- "Go forward"
+
+BROWSER FEATURES
+- "Full screen"
+- "Fullscreen"
+- "Exit full screen"
+- "Developer tools"
+- "Dev tools"
+- "Inspect"
+
+================================================================================
+                        CODE FILE CREATION
+================================================================================
+
+CREATE CODE FILES (All Languages)
+- "Create Python file with [algorithm]"
+- "Make Java program with [algorithm]"
+- "Generate C++ file with [algorithm]"
+- "Write JavaScript code for [algorithm]"
+- "Create HTML file"
+- "Make CSS file"
+- "Generate PHP file"
+- "Create Ruby file"
+- "Make Go file"
+- "Generate Rust file"
+
+SUPPORTED ALGORITHMS
+- Kadane's Algorithm
+- QuickSort
+- MergeSort
+- BFS (Breadth-First Search)
+- DFS (Depth-First Search)
+- Binary Search
+- Fibonacci
+- Prime Number Checker
+- Palindrome Checker
+- Factorial
+- Bubble Sort
+- Insertion Sort
+- Linear Search
+- Hello World
+- Function
+- Loop
+- List
+- Dictionary
+- Class
+- Exception Handling
+- Regex
+- File Read
+- File Write
+- JSON
+- Lambda
+- Decorator
+- Generator
+
+EXAMPLE COMMANDS
+- "Create Python file with Kadane"
+- "Make Java program with QuickSort"
+- "Generate JavaScript file with Fibonacci"
+- "Write C++ code for BFS"
+- "Create Python file with binary search"
+
+================================================================================
+                        WEBSITE NAVIGATION
+================================================================================
+
+SOCIAL MEDIA & PLATFORMS
+- "Open YouTube"
+- "Go to YouTube"
+- "Visit Facebook"
+- "Open Instagram"
+- "Go to Twitter"
+- "Open LinkedIn"
+- "Visit GitHub"
+- "Open Discord"
+- "Go to Reddit"
+- "Visit TikTok"
+
+SEARCH & INFORMATION
+- "Open Google"
+- "Go to Wikipedia"
+- "Open Medium"
+- "Visit Stack Overflow"
+- "Go to Dev.to"
+
+SHOPPING & MEDIA
+- "Open Amazon"
+- "Go to Netflix"
+- "Visit Twitch"
+- "Open Udemy"
+- "Go to Coursera"
+
+PRODUCTIVITY & COMMUNICATION
+- "Open Gmail"
+- "Go to Gmail"
+- "Visit email"
+- "Open mail"
+
+================================================================================
+                        SEARCH & INFORMATION
+================================================================================
+
+SEARCH COMMANDS
+- "Search for [topic]"
+- "Find [topic]"
+- "Look for [topic]"
+- "Google [topic]"
+- "Query [topic]"
+- "Look up [topic]"
+- "Check [topic]"
+- "Research [topic]"
+
+INFORMATION QUERIES
+- "Tell me about [topic]"
+- "Who is [person]"
+- "What is [topic]"
+- "Who was [person]"
+- "What are [topic]"
+- "Explain [topic]"
+- "Definition of [term]"
+- "Meaning of [word]"
+- "Biography of [person]"
+- "Learn about [topic]"
+
+================================================================================
+                        FILE OPERATIONS
+================================================================================
+
+CREATE FILES
+- "Create file"
+- "Make document"
+- "Generate text file"
+- "New file"
+- "Write file"
+- "Create file saying [content]"
+- "Make document with [content]"
+
+FOLDER OPERATIONS
+- "Open folder"
+- "Show folder"
+- "Browse folder"
+- "Navigate folder"
+- "Open file explorer"
+- "Show file explorer"
+- "Open my PC"
+- "Open this PC"
+- "Open computer"
+- "Open files"
+- "Open drive"
+
+CLOSE
+- "Close"
+- "Close window"
+- "Quit"
+- "Exit"
+- "Shut"
+- "Minimize"
+
+================================================================================
+                        TIME & DATE
+================================================================================
+
+TIME QUERIES
+- "What time is it"
+- "What's the time"
+- "Current time"
+- "Tell me the time"
+- "Time now"
+- "How late"
+- "How much time"
+
+DATE QUERIES
+- "What date is it"
+- "Today"
+- "What's today"
+- "Current date"
+- "What day"
+- "Day of week"
+- "Tell me the date"
+- "What's the date"
+
+================================================================================
+                        SYSTEM STATUS
+================================================================================
+
+STATUS & DIAGNOSTICS
+- "Status"
+- "System"
+- "How are you"
+- "All good"
+- "Working"
+- "Operational"
+- "Check"
+- "System check"
+
+================================================================================
+                        GREETINGS & RESPONSES
+================================================================================
+
+GREETINGS
+- "Hello"
+- "Hi"
+- "Hey"
+- "Greetings"
+- "Good morning"
+- "Good afternoon"
+- "Good evening"
+- "Howdy"
+- "Yo"
+- "Sup"
+
+RESPONSES
+- "Thank you"
+- "Thanks"
+- "I appreciate it"
+- "Nice"
+
+================================================================================
+                        WEATHER
+================================================================================
+
+WEATHER QUERIES
+- "Weather"
+- "Temperature"
+- "Forecast"
+- "Rain"
+- "Sunny"
+- "Cloudy"
+- "Climate"
+- "Wind"
+- "Humidity"
+- "Weather in [location]"
+- "Temperature in [location]"
+- "Forecast for [location]"
+
+================================================================================
+                        NEWS
+================================================================================
+
+NEWS COMMANDS
+- "News"
+- "Latest news"
+- "Headlines"
+- "Current events"
+- "Trending"
+- "Breaking news"
+- "Top stories"
+
+================================================================================
+                        MATH & CALCULATIONS
+================================================================================
+
+CALCULATIONS
+- "Calculate [expression]"
+- "Math [expression]"
+- "Equation [expression]"
+- "What is [math]"
+- "Equals [expression]"
+- "How much [calculation]"
+- "Add [numbers]"
+- "Subtract [numbers]"
+- "Multiply [numbers]"
+- "Divide [numbers]"
+- "Percent [calculation]"
+
+================================================================================
+                        TRANSLATION & LANGUAGE
+================================================================================
+
+TRANSLATION
+- "Translate [text]"
+- "Translation [text]"
+- "Language [text]"
+- "Convert [text]"
+- "Translate to Spanish"
+- "Translate to French"
+- "Translate to German"
+- "Translate to Chinese"
+- "Translate to Japanese"
+
+================================================================================
+                        MAPS & NAVIGATION
+================================================================================
+
+LOCATION & DIRECTIONS
+- "Map"
+- "Location"
+- "Direction"
+- "Navigate"
+- "How to get to [place]"
+- "Route to [place]"
+- "Address [place]"
+- "Where is [place]"
+- "Map of [location]"
+- "Navigate to [destination]"
+
+================================================================================
+                        MOVIES & ENTERTAINMENT
+================================================================================
+
+MOVIE SEARCH
+- "Movie [title]"
+- "Film [title]"
+- "Watch [movie]"
+- "Cinema [movie]"
+- "IMDB [movie]"
+- "TV show [show]"
+- "Series [show]"
+- "Episode [show]"
+
+================================================================================
+                        SPORTS
+================================================================================
+
+SPORTS QUERIES
+- "Sport"
+- "Score"
+- "Game"
+- "Football"
+- "Soccer"
+- "Basketball"
+- "Cricket"
+- "Match"
+- "Tournament"
+- "Latest [sport]"
+- "Today [sport]"
+
+================================================================================
+                        SHOPPING & E-COMMERCE
+================================================================================
+
+SHOPPING
+- "Shop"
+- "Buy [item]"
+- "Price [item]"
+- "Product [item]"
+- "Cost [item]"
+- "Cart"
+- "Purchase [item]"
+- "Deal"
+- "Discount"
+- "Sale"
+
+================================================================================
+                        RECIPES & COOKING
+================================================================================
+
+RECIPE SEARCH
+- "Recipe"
+- "Cook [dish]"
+- "Cooking [recipe]"
+- "Ingredient [item]"
+- "Food [dish]"
+- "Dish [name]"
+- "Meal [name]"
+- "Dinner [name]"
+- "Breakfast [name]"
+- "Lunch [name]"
+- "How to make [dish]"
+
+================================================================================
+                        HEALTH & FITNESS
+================================================================================
+
+HEALTH & WELLNESS
+- "Health"
+- "Fitness"
+- "Exercise"
+- "Workout"
+- "Diet"
+- "Calories"
+- "Weight"
+- "Nutrition"
+
+================================================================================
+                        TECH & PROGRAMMING
+================================================================================
+
+TECH QUERIES
+- "Code"
+- "Program"
+- "JavaScript"
+- "Python"
+- "HTML"
+- "CSS"
+- "Database"
+- "API"
+- "Error"
+- "Bug"
+- "Debug"
+- "How to [tech topic]"
+- "How do I [programming]"
+- "What is [tech]"
+
+================================================================================
+                        QUICK REFERENCE
+================================================================================
+
+MOST POPULAR COMMANDS TO TRY:
+
+1. "Create Python file with Kadane"
+   → Downloads a Python file with Kadane's Algorithm code
+
+2. "Play [song name]"
+   → Opens YouTube Music and plays the song
+
+3. "Search for [topic]"
+   → Opens Google search with your topic
+
+4. "Tell me about [person]"
+   → Opens Google search with biography info
+
+5. "Open YouTube"
+   → Opens YouTube website
+
+6. "What time is it"
+   → Tells you current time
+
+7. "Take screenshot"
+   → Provides screenshot instructions
+
+8. "Shutdown my laptop"
+   → Provides shutdown instructions (Windows+X then S)
+
+9. "Create file saying hello world"
+   → Downloads a text file with your content
+
+10. "Task manager"
+    → Provides Task Manager instructions (Ctrl+Shift+Esc)
+
+================================================================================
+                        COMMAND EXAMPLES
+================================================================================
+
+EXAMPLE SENTENCES YOU CAN SAY:
+
+1. "Create a Python file with Kadane"
+2. "Make a Java program with QuickSort"
+3. "Generate JavaScript code with Fibonacci"
+4. "Play Bohemian Rhapsody"
+5. "Search for machine learning"
+6. "Tell me about Albert Einstein"
+7. "Open Netflix"
+8. "What's the weather in New York"
+9. "Find me a pizza recipe"
+10. "Show me movie reviews for Inception"
+11. "Take a screenshot"
+12. "Create a file saying hello world"
+13. "Open file explorer"
+14. "What time is it"
+15. "System status"
+16. "Volume up"
+17. "Search for Python tutorials"
+18. "Navigate to London"
+19. "Calculate 25 percent of 200"
+20. "Tell me latest news"
+
+================================================================================
+                        NOTES
+================================================================================
+
+✓ All commands are case-insensitive (use any case)
+✓ Speak naturally - the AI understands variations
+✓ Use the blue microphone button to start listening
+✓ Wait for the beep before speaking
+✓ Speak clearly and naturally
+✓ System will provide keyboard instructions for unavailable features
+✓ Browser security prevents executing shutdown/restart/lock
+✓ All file downloads go to your Downloads folder
+
+================================================================================
+                        TOTAL COMMANDS: 350+
+================================================================================
